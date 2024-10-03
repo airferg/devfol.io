@@ -663,6 +663,7 @@ video {
         width: 70%;
         left: 15%;
         top: 10%;
+
     }
 
     h1 {
@@ -671,6 +672,7 @@ video {
 
     h2 {
         font-size: 22px; /* Adjust heading size */
+        justify-content: center;
     }
 
     ul {
@@ -707,5 +709,5 @@ video {
         width: 80%; /* Adjust video size for medium screens */
     }
 
-    
+
 }
